@@ -122,11 +122,21 @@ cat new_file4.txt
 
 ## 3) Questions
 1. What does `echo` do?
-2. What does `ls` do?
-3. What happens when you use `>` after `echo`?
-4. What does `cat` do with one file? With two?
-5. What's the difference between `>` and `>>`?
-6. What do parentheses and `;` do?
+   "echo" calling build in function in cli and prints argument we gave over.
+3. What does `ls` do?
+   ls is build in in cli which makes List of avalible items in directory.
+   
+5. What happens when you use `>` after `echo`?
+   in this way we can overwrite content.
+   
+7. What does `cat` do with one file? With two?
+   cat is used to print content of file or concantinate content of 2 files.
+   
+9. What's the difference between `>` and `>>`?
+    > overvrite , >> concatinate
+    > 
+11. What do parentheses and `;` do?
+    helps kernel to understand where the end of the statement is.
 
 ## 4) Advice
 
